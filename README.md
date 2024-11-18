@@ -1,5 +1,7 @@
 Birthday Reminder App
+
 Overview
+
 The Birthday Remainder App is a React-based web application designed to help users keep track of upcoming birthdays. It allows users to add, view, and receive reminders for their contacts' birthdays. The app uses React for the front-end to create a smooth and interactive user experience.
 
 Features
