@@ -51,4 +51,6 @@ User Authentication: Adding login/signup functionality to allow users to save th
 Notifications: Implementing email or push notifications for birthday reminders.
 Better UI/UX Design: Enhancing the visual appearance of the app to make it more user-friendly and visually appealing.
 Contributing:
-Contributions are always welcome! Feel free to fork the repository and submit pull requests
+Contributions are always welcome! Feel free to fork the repository and submit pull requests. 
+Thank you!
+
